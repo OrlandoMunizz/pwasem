@@ -1,0 +1,23 @@
+.title{
+    font-size: 45px;
+    margin-top: 10px;
+}
+#news{
+    /* overflow-x: scroll;
+    overflow-y: hidden; */
+}
+.card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card .card-body .card-title{
+    /* display: inline-block !important; */
+    font-size: 14px;
+  }
+  .card .card-body .card-text{
+    /* display: inline-block !important; */
+    font-size: 12px;
+  }
+  .hidden{
+    display: none;
+  }
